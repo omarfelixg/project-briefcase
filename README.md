@@ -2,7 +2,7 @@
 Portfolio-based project on Omar Felix Gamboa
 
 ## Technologies:
-- Frontend: HTML, CSS, SCSS
+- Frontend: HTML, CSS.
 
 ## Installation
 
